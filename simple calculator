@@ -47,4 +47,4 @@ while True:
         if next_calculation.lower() != 'yes':
             break
     else:
-        print("Invalid Input")
+        print("Invalid Input!")
